@@ -1,0 +1,59 @@
+Bussines Problem
+
+Machine Learning End to End Project
+
+    Import essential libraries
+
+    Import dataset & explore
+
+    Know about dataset
+
+    Data visualization
+
+        Heatmap using the correlation matrix
+
+        Pair plot of fineTech_appData2
+
+        Countplot of enrolled
+
+        Histogram of each feature of fineTech_appData2
+
+        Correlation barplot with ‘enrolled’ feature
+
+    Feature selection
+
+    Heatmap with the correlation matrix
+
+    Data preprocessing
+
+        Split dataset in Train and Test
+
+        Feature Scaling
+
+    Machine Learning Model Building
+
+        Decision Tree Classifier
+
+        K – Nearest Neighbor Classifier
+
+        Naive Bayes Classifier
+
+        Random Forest Classifier
+
+        Logistic Regression
+
+        Support Vector Classifier
+
+        XGBoost Classifier
+
+        Confusion Matrix
+
+        Classification report of ML model
+  
+        Cross-validation of the ML model
+
+    Mapping predicted output to the target
+
+    Save the Machine Learning model
+
+        Save the ML model with Pickle
